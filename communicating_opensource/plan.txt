@@ -1,0 +1,9 @@
+1. Opensource is about collaboration.
+2. Communication is critical for human interaction and cooperation
+3. In opensource community, the need of proper communication is very importatnt.
+4. Basic communication media these days: whatsapp, messenger, telegram, gitter, slack but here comes the champ: IRC.
+5. IRC definition
+
+9. Since Like any text based chat system, messages might not convey true meaning to other person, so we needed emojis.
+10. Emojis like are very useful and important.
+11. Communication etiquettes are most important in opensource community.
