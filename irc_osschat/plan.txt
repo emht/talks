@@ -6,6 +6,7 @@
 (Little bit of Handson ...)
 
 5. IRC definition
+5.2. Why use one
 6. How IRC works: ping server every few seconds to check if there are any avialable messages.
 7. Drawbacks: Do not store messages, Looks rubish to eyes.
 8. Emergence of Bouncers: Why Bouncers?
